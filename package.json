@@ -41,7 +41,7 @@
   },
   "bugs": "https://github.com/blueimp/jQuery-File-Upload/issues",
   "license": "MIT",
-  "main": "js/jquery.fileupload.js",
+  "main": "js/jquery.fileupload-angular.js",
   "devDependencies": {
     "bower-json": "0.6.0",
     "grunt": "0.4.5",
